@@ -67,10 +67,44 @@ title: SMP Streamers
     flex-shrink: 0;
     /* margin-right no longer needed because we use gap */
   }
+
+  .link-box {
+    display: inline-block;
+    padding: 0.4rem 0.8rem;
+    margin: 0.2rem;
+    background: #222;
+    color: #fff;
+    text-decoration: none;
+    border: 2px solid #555;
+    border-radius: 6px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    transition: background-color 0.2s ease, border-color 0.2s ease;
+    cursor: pointer;
+    user-select: none;
+    }
+
+    .link-box:hover,
+    .link-box:focus {
+    background-color: #444;
+    border-color: #aaa;
+    color: #fff;
+    outline: none;
+    }
+
+    .link-box:active {
+    background-color: #666;
+    border-color: #888;
+    }
+
 </style>
 
+<h1>Silly SMP</h1>
 
-<h1>SMP Streamers</h1>
+<h2>Useful Links</h2>
+<a href="https://map.sillysmp.net" class="link-box" target="_blank" rel="noopener noreferrer">Server Map</a>
+
+<h2>Streamers</h2>
 
 <div id="streamer-container">
   <p>Loading streamer status...</p>

@@ -10,8 +10,23 @@
         "on_smp": false
     },
     {
-        "username": "sykkuno",
-        "display_name": "sykkuno",
+        "username": "nyxists",
+        "display_name": "nyxists",
+        "on_smp": false
+    },
+    {
+        "username": "rosbinv2",
+        "display_name": "rosbinv2",
+        "on_smp": false
+    },
+    {
+        "username": "denknanigans",
+        "display_name": "denknanigans",
+        "on_smp": false
+    },
+    {
+        "username": "monsieur_gyoo",
+        "display_name": "Monsieur_Gyoo",
         "on_smp": false
     }
 ]
