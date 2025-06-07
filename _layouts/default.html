@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { font-family: sans-serif; background: #111; color: #fff; padding: 2rem; }
+    .streamer { background: #222; padding: 1rem; border-radius: 10px; margin-bottom: 1rem; }
+    .container {
+        max-width: 50%;
+        margin: 0 auto;
+        padding: 0 1rem;
+    }
+
+    @media (min-width: 769px) and (max-width: 1024px) {
+        .container {
+            max-width: 80%;
+        }
+    }
+
+    @media (max-width: 768px) {
+        .container {
+            max-width: 100%;
+            padding: 0 1rem;
+        }
+    }
+  </style>
+</head>
+<body>
+    <div class="container">
+        {{ content }}
+    </div>
+</body>
+</html>
