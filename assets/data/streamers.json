@@ -30,7 +30,6 @@
         "on_smp": false
     },
     {
-<<<<<<< HEAD
         "username": "lonely_din0",
         "display_name": "lonely_din0",
         "on_smp": false
@@ -38,9 +37,6 @@
     {
         "username": "jake_stone",
         "display_name": "Jake_Stone",
-=======
-        "username": "scarxpng",
-        "display_name": "scarxpng",
         "on_smp": false
     },
     {
@@ -71,7 +67,11 @@
     {
         "username": "pipesyy",
         "display_name": "pipesyy",
->>>>>>> 43311efe24575c35f835f3f531bc307b170f1c5c
+        "on_smp": false
+    },
+    {
+        "username": "scarxpng",
+        "display_name": "scarxpng",
         "on_smp": false
     }
 ]
