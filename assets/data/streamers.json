@@ -30,6 +30,7 @@
         "on_smp": false
     },
     {
+<<<<<<< HEAD
         "username": "lonely_din0",
         "display_name": "lonely_din0",
         "on_smp": false
@@ -37,6 +38,40 @@
     {
         "username": "jake_stone",
         "display_name": "Jake_Stone",
+=======
+        "username": "scarxpng",
+        "display_name": "scarxpng",
+        "on_smp": false
+    },
+    {
+        "username": "zion997",
+        "display_name": "Zion997",
+        "on_smp": false
+    },
+    {
+        "username": "maxedoutt_",
+        "display_name": "MaxedOutt_",
+        "on_smp": false
+    },
+    {
+        "username": "spacemad_24",
+        "display_name": "spacemad240",
+        "on_smp": false
+    },
+    {
+        "username": "dippwhipp",
+        "display_name": "dippwhipp",
+        "on_smp": false
+    },
+    {
+        "username": "xmiraj_",
+        "display_name": "xMiraj",
+        "on_smp": false
+    },
+    {
+        "username": "pipesyy",
+        "display_name": "pipesyy",
+>>>>>>> 43311efe24575c35f835f3f531bc307b170f1c5c
         "on_smp": false
     }
 ]
